@@ -1,0 +1,7 @@
+{
+  "name": "侦探喵的情人节任务",
+  "description": "一个温馨可爱的文字冒险游戏，你将化身侦探猫，通过技能检定和解谜来寻找并唤醒失踪的YYQ，领取你的情人节惊喜礼包！",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
